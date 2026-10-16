@@ -1,0 +1,3394 @@
+[
+  {
+    "week": 0,
+    "title": "Week 0 · Introduction",
+    "sourceLabel": "July 2026- Assignment Week-0",
+    "questions": [
+      {
+        "id": "w0-q1",
+        "week": 0,
+        "number": 1,
+        "question": "What is Psychology?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Just a social media trend"
+          },
+          {
+            "key": "B",
+            "text": "An art of living"
+          },
+          {
+            "key": "C",
+            "text": "A subject about human body"
+          },
+          {
+            "key": "D",
+            "text": "A study of cognitive processes & behavior"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w0-q2",
+        "week": 0,
+        "number": 2,
+        "question": "A broad field of study that explores a variety of questions about thoughts, feelings and actions is -------?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Society"
+          },
+          {
+            "key": "B",
+            "text": "Globalization"
+          },
+          {
+            "key": "C",
+            "text": "Psychology"
+          },
+          {
+            "key": "D",
+            "text": "Social Science"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w0-q3",
+        "week": 0,
+        "number": 3,
+        "question": "Learning has been a central topic of research in ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Chemistry"
+          },
+          {
+            "key": "B",
+            "text": "Physics"
+          },
+          {
+            "key": "C",
+            "text": "Mathematics"
+          },
+          {
+            "key": "D",
+            "text": "Psychology"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w0-q4",
+        "week": 0,
+        "number": 4,
+        "question": "The word Psyche means -------------?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Body or physique"
+          },
+          {
+            "key": "B",
+            "text": "Mind or soul"
+          },
+          {
+            "key": "C",
+            "text": "Spirituality"
+          },
+          {
+            "key": "D",
+            "text": "Hormones"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w0-q5",
+        "week": 0,
+        "number": 5,
+        "question": "The ___ of learning focuses on how people learn.",
+        "options": [
+          {
+            "key": "A",
+            "text": "psychology"
+          },
+          {
+            "key": "B",
+            "text": "english"
+          },
+          {
+            "key": "C",
+            "text": "chemistry"
+          },
+          {
+            "key": "D",
+            "text": "none of the given"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w0-q6",
+        "week": 0,
+        "number": 6,
+        "question": "To help people to function effectively and fulfill their own unique potential” is the aim of------ --------?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Humanistic psychology"
+          },
+          {
+            "key": "B",
+            "text": "Evolutionary biology"
+          },
+          {
+            "key": "C",
+            "text": "Computer science"
+          },
+          {
+            "key": "D",
+            "text": "Microbiology"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w0-q7",
+        "week": 0,
+        "number": 7,
+        "question": "Psychology is not an independent science, but dependent on other fields.",
+        "options": [
+          {
+            "key": "A",
+            "text": "True"
+          },
+          {
+            "key": "B",
+            "text": "False"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w0-q8",
+        "week": 0,
+        "number": 8,
+        "question": "The study of changes in an individual’s behavior during his/her lifetime is called ----------.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Hormonal psychology"
+          },
+          {
+            "key": "B",
+            "text": "Gender psychology"
+          },
+          {
+            "key": "C",
+            "text": "Developmental Psychology"
+          },
+          {
+            "key": "D",
+            "text": "Genetics or Heredity"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w0-q9",
+        "week": 0,
+        "number": 9,
+        "question": "The study of differences and similarities in the behavior of animals of different species is called - -----------------------.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Developmental psychology"
+          },
+          {
+            "key": "B",
+            "text": "Cultural psychology"
+          },
+          {
+            "key": "C",
+            "text": "Personality psychology"
+          },
+          {
+            "key": "D",
+            "text": "Comparative Psychology"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w0-q10",
+        "week": 0,
+        "number": 10,
+        "question": "Humans are incapable of learning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "True"
+          },
+          {
+            "key": "B",
+            "text": "False"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 1,
+    "title": "Week 1",
+    "sourceLabel": "July 2026- Assignment Week-1",
+    "questions": [
+      {
+        "id": "w1-q1",
+        "week": 1,
+        "number": 1,
+        "question": "Learning is often seen as the contiguous causal effect of ____ on behavior.",
+        "options": [
+          {
+            "key": "A",
+            "text": "blood"
+          },
+          {
+            "key": "B",
+            "text": "bone density"
+          },
+          {
+            "key": "C",
+            "text": "trauma"
+          },
+          {
+            "key": "D",
+            "text": "experience"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w1-q2",
+        "week": 1,
+        "number": 2,
+        "question": "In order to say that learning has occurred, a hidden change in behavior must occur.",
+        "options": [
+          {
+            "key": "A",
+            "text": "True"
+          },
+          {
+            "key": "B",
+            "text": "False"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w1-q3",
+        "week": 1,
+        "number": 3,
+        "question": "Which of the following is not a mental construct?",
+        "options": [
+          {
+            "key": "A",
+            "text": "skeleton"
+          },
+          {
+            "key": "B",
+            "text": "knowledge"
+          },
+          {
+            "key": "C",
+            "text": "representations"
+          },
+          {
+            "key": "D",
+            "text": "associations"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w1-q4",
+        "week": 1,
+        "number": 4,
+        "question": "Learning changes the ___ structure of the brain through the process of continuous interactions between the learner and the external environment.",
+        "options": [
+          {
+            "key": "A",
+            "text": "physical"
+          },
+          {
+            "key": "B",
+            "text": "social"
+          },
+          {
+            "key": "C",
+            "text": "biological"
+          },
+          {
+            "key": "D",
+            "text": "none of the given"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w1-q5",
+        "week": 1,
+        "number": 5,
+        "question": "___ shapes the learning process.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Only thoughts"
+          },
+          {
+            "key": "B",
+            "text": "Only emotions"
+          },
+          {
+            "key": "C",
+            "text": "Both thoughts and emotions"
+          },
+          {
+            "key": "D",
+            "text": "Neither thoughts nor emotions"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w1-q6",
+        "week": 1,
+        "number": 6,
+        "question": "Watson's work included the famous Little Albert experiment in which he conditioned a small child to ___ a white rat.",
+        "options": [
+          {
+            "key": "A",
+            "text": "fear"
+          },
+          {
+            "key": "B",
+            "text": "love"
+          },
+          {
+            "key": "C",
+            "text": "hate"
+          },
+          {
+            "key": "D",
+            "text": "play with"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w1-q7",
+        "week": 1,
+        "number": 7,
+        "question": "Behaviorism dominated psychology for much of the early ___ century.",
+        "options": [
+          {
+            "key": "A",
+            "text": "20th"
+          },
+          {
+            "key": "B",
+            "text": "19th"
+          },
+          {
+            "key": "C",
+            "text": "18th"
+          },
+          {
+            "key": "D",
+            "text": "17th"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w1-q8",
+        "week": 1,
+        "number": 8,
+        "question": "The state of “conscious incompetence” may be valuable ____ of a learning experience.",
+        "options": [
+          {
+            "key": "A",
+            "text": "at the end"
+          },
+          {
+            "key": "B",
+            "text": "in the middle"
+          },
+          {
+            "key": "C",
+            "text": "2 years after the end"
+          },
+          {
+            "key": "D",
+            "text": "at the start"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w1-q9",
+        "week": 1,
+        "number": 9,
+        "question": "Which of the following is not an outcome of effective e-learning?",
+        "options": [
+          {
+            "key": "A",
+            "text": "wider range of strategies"
+          },
+          {
+            "key": "B",
+            "text": "more reflective approach"
+          },
+          {
+            "key": "C",
+            "text": "more positive emotions towards learning"
+          },
+          {
+            "key": "D",
+            "text": "more disconnected knowledge"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w1-q10",
+        "week": 1,
+        "number": 10,
+        "question": "Instrumental conditioning is an example of ___ learning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "sensitization"
+          },
+          {
+            "key": "B",
+            "text": "habituation"
+          },
+          {
+            "key": "C",
+            "text": "associative"
+          },
+          {
+            "key": "D",
+            "text": "meaningful"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "title": "Week 2",
+    "sourceLabel": "July 2026- Assignment Week-02",
+    "questions": [
+      {
+        "id": "w2-q1",
+        "week": 2,
+        "number": 1,
+        "question": "The three major types of learning described by ___ psychology are classical conditioning, operant conditioning and observational learning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "cognitive"
+          },
+          {
+            "key": "B",
+            "text": "behavioral"
+          },
+          {
+            "key": "C",
+            "text": "emotional"
+          },
+          {
+            "key": "D",
+            "text": "evolutionary"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w2-q2",
+        "week": 2,
+        "number": 2,
+        "question": "According to the view of Watson, psychology is ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "subjective"
+          },
+          {
+            "key": "B",
+            "text": "only descriptive"
+          },
+          {
+            "key": "C",
+            "text": "experimental"
+          },
+          {
+            "key": "D",
+            "text": "about internal mental processes that cannot be measured and observed"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w2-q3",
+        "week": 2,
+        "number": 3,
+        "question": "___ is given by Ivan Pavlov.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Operant conditioning"
+          },
+          {
+            "key": "B",
+            "text": "Functional conditioning"
+          },
+          {
+            "key": "C",
+            "text": "Classical conditioning"
+          },
+          {
+            "key": "D",
+            "text": "Modern conditioning"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w2-q4",
+        "week": 2,
+        "number": 4,
+        "question": "The process by which organisms learn to respond to certain stimuli but not to others is known as ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "stimulus generalization"
+          },
+          {
+            "key": "B",
+            "text": "stimulus appreciation"
+          },
+          {
+            "key": "C",
+            "text": "stimulus discrimination"
+          },
+          {
+            "key": "D",
+            "text": "stimulus differentiation"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w2-q5",
+        "week": 2,
+        "number": 5,
+        "question": "Higher-order conditioning is intrinsically weaker than its first-order counterpart.",
+        "options": [
+          {
+            "key": "A",
+            "text": "True"
+          },
+          {
+            "key": "B",
+            "text": "False"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w2-q6",
+        "week": 2,
+        "number": 6,
+        "question": "____ is the process of gradually changing the quality of a response.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Shaping"
+          },
+          {
+            "key": "B",
+            "text": "Modeling"
+          },
+          {
+            "key": "C",
+            "text": "Cueing"
+          },
+          {
+            "key": "D",
+            "text": "Shifting"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w2-q7",
+        "week": 2,
+        "number": 7,
+        "question": "The works of ___ were instrumental in engendering the dramatic shift from behaviorism to cognitive theories.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Edward C. Tolman"
+          },
+          {
+            "key": "B",
+            "text": "Jean Piaget"
+          },
+          {
+            "key": "C",
+            "text": "German Gestalt"
+          },
+          {
+            "key": "D",
+            "text": "All of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w2-q8",
+        "week": 2,
+        "number": 8,
+        "question": "___ intelligence is the ability to perceive the visual–spatial world accurately and involves sensitivity to color, line, shape, form, space, and the potential for recognizing and manipulating the patterns of spaces.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Interpersonal"
+          },
+          {
+            "key": "B",
+            "text": "Spatial"
+          },
+          {
+            "key": "C",
+            "text": "Bodily-kinesthetic"
+          },
+          {
+            "key": "D",
+            "text": "Linguistic"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w2-q9",
+        "week": 2,
+        "number": 9,
+        "question": "Sternberg proposed his theory in 1985 as an alternative to the idea of the ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "general intelligence factor"
+          },
+          {
+            "key": "B",
+            "text": "multiple intelligences"
+          },
+          {
+            "key": "C",
+            "text": "specific intelligence factor"
+          },
+          {
+            "key": "D",
+            "text": "unconscious intelligence"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w2-q10",
+        "week": 2,
+        "number": 10,
+        "question": "Which of the following is not a kind of product in the structure of intellect model?",
+        "options": [
+          {
+            "key": "A",
+            "text": "symbolic"
+          },
+          {
+            "key": "B",
+            "text": "classes"
+          },
+          {
+            "key": "C",
+            "text": "systems"
+          },
+          {
+            "key": "D",
+            "text": "implications"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "title": "Week 3",
+    "sourceLabel": "July 2026- Assignment Week-03",
+    "questions": [
+      {
+        "id": "w3-q1",
+        "week": 3,
+        "number": 1,
+        "question": "The connections between nerves cells are called ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "systems"
+          },
+          {
+            "key": "B",
+            "text": "syntaxes"
+          },
+          {
+            "key": "C",
+            "text": "neurons"
+          },
+          {
+            "key": "D",
+            "text": "synapses"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w3-q2",
+        "week": 3,
+        "number": 2,
+        "question": "In order to create a ___, information must be changed into a usable form, which occurs through a process known as encoding.",
+        "options": [
+          {
+            "key": "A",
+            "text": "past memory"
+          },
+          {
+            "key": "B",
+            "text": "new imagination"
+          },
+          {
+            "key": "C",
+            "text": "new memory"
+          },
+          {
+            "key": "D",
+            "text": "past imagination"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w3-q3",
+        "week": 3,
+        "number": 3,
+        "question": "Calling back the stored information in response to some cue for use in a process or activity is called ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Retrieval"
+          },
+          {
+            "key": "B",
+            "text": "Recall"
+          },
+          {
+            "key": "C",
+            "text": "Recollection"
+          },
+          {
+            "key": "D",
+            "text": "All of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w3-q4",
+        "week": 3,
+        "number": 4,
+        "question": "For many with ___ deficits, reading facial expressions and knowing how to respond are confusing daily challenges.",
+        "options": [
+          {
+            "key": "A",
+            "text": "memory"
+          },
+          {
+            "key": "B",
+            "text": "intelligence"
+          },
+          {
+            "key": "C",
+            "text": "social cognition"
+          },
+          {
+            "key": "D",
+            "text": "biological cognition"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w3-q5",
+        "week": 3,
+        "number": 5,
+        "question": "The Information Processing View of Learning assumes that there are limits to how much information can be processed at each stage.",
+        "options": [
+          {
+            "key": "A",
+            "text": "True"
+          },
+          {
+            "key": "B",
+            "text": "False"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w3-q6",
+        "week": 3,
+        "number": 6,
+        "question": "The Information Processing View of Learning assumes that information process is involved in ___",
+        "options": [
+          {
+            "key": "A",
+            "text": "forgetting"
+          },
+          {
+            "key": "B",
+            "text": "remembering"
+          },
+          {
+            "key": "C",
+            "text": "perceiving"
+          },
+          {
+            "key": "D",
+            "text": "All of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w3-q7",
+        "week": 3,
+        "number": 7,
+        "question": "The capacity of the sensory register is ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "very small"
+          },
+          {
+            "key": "B",
+            "text": "very large"
+          },
+          {
+            "key": "C",
+            "text": "7+/-2 chunks"
+          },
+          {
+            "key": "D",
+            "text": "unlimited"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w3-q8",
+        "week": 3,
+        "number": 8,
+        "question": "Most children do not begin to engage in the process of rehearsal on their own until about age ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "seven"
+          },
+          {
+            "key": "B",
+            "text": "two"
+          },
+          {
+            "key": "C",
+            "text": "thirteen"
+          },
+          {
+            "key": "D",
+            "text": "one"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w3-q9",
+        "week": 3,
+        "number": 9,
+        "question": "___ provides an interface between the sub-systems of working memory and the part of long term memory specialized for episodic memory.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Phonological loop"
+          },
+          {
+            "key": "B",
+            "text": "Visuo-spatial sketchpad"
+          },
+          {
+            "key": "C",
+            "text": "Retrieval buffer"
+          },
+          {
+            "key": "D",
+            "text": "Episodic buffer"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w3-q10",
+        "week": 3,
+        "number": 10,
+        "question": "Memories of specific episodes of one’s life refers to ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "declarative memory"
+          },
+          {
+            "key": "B",
+            "text": "experimental episodic memory"
+          },
+          {
+            "key": "C",
+            "text": "autobiographical episodic memory"
+          },
+          {
+            "key": "D",
+            "text": "procedural memory"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "title": "Week 4",
+    "sourceLabel": "July 2026- Assignment Week-04",
+    "questions": [
+      {
+        "id": "w4-q1",
+        "week": 4,
+        "number": 1,
+        "question": "___ thinking is the ability to create mental representations of objects, places, events, or people in your mind.",
+        "options": [
+          {
+            "key": "A",
+            "text": "General"
+          },
+          {
+            "key": "B",
+            "text": "Creative"
+          },
+          {
+            "key": "C",
+            "text": "Divergent"
+          },
+          {
+            "key": "D",
+            "text": "Symbolic"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w4-q2",
+        "week": 4,
+        "number": 2,
+        "question": "We compare new information to our ___ of the person, place, or thing, so we know how to categorize the new information mentally.",
+        "options": [
+          {
+            "key": "A",
+            "text": "protofit"
+          },
+          {
+            "key": "B",
+            "text": "protobite"
+          },
+          {
+            "key": "C",
+            "text": "prototype"
+          },
+          {
+            "key": "D",
+            "text": "none of the given"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w4-q3",
+        "week": 4,
+        "number": 3,
+        "question": "Which of the following is not true?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Thinking is a higher mental process"
+          },
+          {
+            "key": "B",
+            "text": "Thinking is a sub-vocal talking"
+          },
+          {
+            "key": "C",
+            "text": "Thinking is fulfilling a need or problem solving"
+          },
+          {
+            "key": "D",
+            "text": "Thinking is only done in verbal symbols"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w4-q4",
+        "week": 4,
+        "number": 4,
+        "question": "Mental images are ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Auditory"
+          },
+          {
+            "key": "B",
+            "text": "Visual"
+          },
+          {
+            "key": "C",
+            "text": "Gustatory"
+          },
+          {
+            "key": "D",
+            "text": "All of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w4-q5",
+        "week": 4,
+        "number": 5,
+        "question": "___ organize complex phenomena into simpler, easily understandable, and usable categories and help to solve our problems.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Concepts"
+          },
+          {
+            "key": "B",
+            "text": "Propositions"
+          },
+          {
+            "key": "C",
+            "text": "Constructs"
+          },
+          {
+            "key": "D",
+            "text": "Components"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w4-q6",
+        "week": 4,
+        "number": 6,
+        "question": "The lowermost level of Bloom’s taxonomy is ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "remember"
+          },
+          {
+            "key": "B",
+            "text": "apply"
+          },
+          {
+            "key": "C",
+            "text": "understand"
+          },
+          {
+            "key": "D",
+            "text": "analyze"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w4-q7",
+        "week": 4,
+        "number": 7,
+        "question": "The psychomotor domain of the Bloom’s taxonomy is concerned with ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Biological makeup"
+          },
+          {
+            "key": "B",
+            "text": "Thoughts and beliefs"
+          },
+          {
+            "key": "C",
+            "text": "Feelings and emotions"
+          },
+          {
+            "key": "D",
+            "text": "Skilled behavior"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w4-q8",
+        "week": 4,
+        "number": 8,
+        "question": "Which of the following is an example of meta-cognition skills?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Ignoring your limits"
+          },
+          {
+            "key": "B",
+            "text": "Self-monitoring"
+          },
+          {
+            "key": "C",
+            "text": "Skimming all important information"
+          },
+          {
+            "key": "D",
+            "text": "All of the given"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w4-q9",
+        "week": 4,
+        "number": 9,
+        "question": "___ critical thinking skill helps you analyze and process information to come to an unbiased conclusion.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Open-mindedness"
+          },
+          {
+            "key": "B",
+            "text": "Self-regulation"
+          },
+          {
+            "key": "C",
+            "text": "Self-control"
+          },
+          {
+            "key": "D",
+            "text": "Observation"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w4-q10",
+        "week": 4,
+        "number": 10,
+        "question": "The inspiration phase of the creative thinking process refers to the ___ stage.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Incubation"
+          },
+          {
+            "key": "B",
+            "text": "Insight"
+          },
+          {
+            "key": "C",
+            "text": "Evaluation"
+          },
+          {
+            "key": "D",
+            "text": "Preparation"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "title": "Week 5",
+    "sourceLabel": "July 2026- Assignment Week-5",
+    "questions": [
+      {
+        "id": "w5-q1",
+        "week": 5,
+        "number": 1,
+        "question": "Which of the following is true about motivation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "It is a physical impulse"
+          },
+          {
+            "key": "B",
+            "text": "It is an external process"
+          },
+          {
+            "key": "C",
+            "text": "It has a willingness to activate but not channel the attitudes of learners"
+          },
+          {
+            "key": "D",
+            "text": "None of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w5-q2",
+        "week": 5,
+        "number": 2,
+        "question": "The term “motivation” comes from a ___ word.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Greek"
+          },
+          {
+            "key": "B",
+            "text": "Latin"
+          },
+          {
+            "key": "C",
+            "text": "Hindi"
+          },
+          {
+            "key": "D",
+            "text": "Bengali"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w5-q3",
+        "week": 5,
+        "number": 3,
+        "question": "It is called extrinsic motivation if causal factor is ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "curiosity"
+          },
+          {
+            "key": "B",
+            "text": "social pressure"
+          },
+          {
+            "key": "C",
+            "text": "self-satisfaction"
+          },
+          {
+            "key": "D",
+            "text": "needs"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w5-q4",
+        "week": 5,
+        "number": 4,
+        "question": "___ motivation is considered to be more crucial for students as it is associated with deep learning, better performance and self-efficacy.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Intrinsic"
+          },
+          {
+            "key": "B",
+            "text": "Extrinsic"
+          },
+          {
+            "key": "C",
+            "text": "Introjected regulation"
+          },
+          {
+            "key": "D",
+            "text": "None of the given"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w5-q5",
+        "week": 5,
+        "number": 5,
+        "question": "___ proposed that there are three primary drives that drive human behavior.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Hull"
+          },
+          {
+            "key": "B",
+            "text": "Watson"
+          },
+          {
+            "key": "C",
+            "text": "Piaget"
+          },
+          {
+            "key": "D",
+            "text": "Gestalt"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w5-q6",
+        "week": 5,
+        "number": 6,
+        "question": "Expectancy Theory of Motivation was developed by ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Vroom"
+          },
+          {
+            "key": "B",
+            "text": "Hull"
+          },
+          {
+            "key": "C",
+            "text": "Murray"
+          },
+          {
+            "key": "D",
+            "text": "None of the given"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w5-q7",
+        "week": 5,
+        "number": 7,
+        "question": "An example of ___ is thinking, “If I work hard I can achieve the targets my boss has set for me”.",
+        "options": [
+          {
+            "key": "A",
+            "text": "purposeful"
+          },
+          {
+            "key": "B",
+            "text": "valence"
+          },
+          {
+            "key": "C",
+            "text": "instrumentality"
+          },
+          {
+            "key": "D",
+            "text": "expectancy"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w5-q8",
+        "week": 5,
+        "number": 8,
+        "question": "In SMART goals, T stands for ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Temporary"
+          },
+          {
+            "key": "B",
+            "text": "Time-based"
+          },
+          {
+            "key": "C",
+            "text": "Tough"
+          },
+          {
+            "key": "D",
+            "text": "Testing"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w5-q9",
+        "week": 5,
+        "number": 9,
+        "question": "Friendship is a ___ need in Maslow’s hierarchy.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Love and belonging"
+          },
+          {
+            "key": "B",
+            "text": "Esteem"
+          },
+          {
+            "key": "C",
+            "text": "Physiological"
+          },
+          {
+            "key": "D",
+            "text": "Safety"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w5-q10",
+        "week": 5,
+        "number": 10,
+        "question": "___ theory differentiates between autonomous motivation and controlled motivation.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Arousal"
+          },
+          {
+            "key": "B",
+            "text": "Goal-setting"
+          },
+          {
+            "key": "C",
+            "text": "Need hierarchy"
+          },
+          {
+            "key": "D",
+            "text": "Self-determination"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "title": "Week 6",
+    "sourceLabel": "July 2026- Assignment Week-6",
+    "questions": [
+      {
+        "id": "w6-q1",
+        "week": 6,
+        "number": 1,
+        "question": "According to Daniel Goleman, ___ component of emotional intelligence focuses on how we handle relationships with others.",
+        "options": [
+          {
+            "key": "A",
+            "text": "self-awareness"
+          },
+          {
+            "key": "B",
+            "text": "motivation"
+          },
+          {
+            "key": "C",
+            "text": "empathy"
+          },
+          {
+            "key": "D",
+            "text": "emotional regulation"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w6-q2",
+        "week": 6,
+        "number": 2,
+        "question": "Emotional intelligence can be considered a type of ___ intelligence.",
+        "options": [
+          {
+            "key": "A",
+            "text": "academic"
+          },
+          {
+            "key": "B",
+            "text": "genetic"
+          },
+          {
+            "key": "C",
+            "text": "social"
+          },
+          {
+            "key": "D",
+            "text": "external"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w6-q3",
+        "week": 6,
+        "number": 3,
+        "question": "Noticing a difficult emotion and slowing down or resisting any impulsive action that may follow highlights ___ component of emotional intelligence.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Self-regulation"
+          },
+          {
+            "key": "B",
+            "text": "Motivation"
+          },
+          {
+            "key": "C",
+            "text": "Emotional literacy"
+          },
+          {
+            "key": "D",
+            "text": "Empathy"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w6-q4",
+        "week": 6,
+        "number": 4,
+        "question": "The following are signs of emotional intelligence, except ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "strong sense of curiosity"
+          },
+          {
+            "key": "B",
+            "text": "holding onto mistakes"
+          },
+          {
+            "key": "C",
+            "text": "ability to manage emotions in difficult situations"
+          },
+          {
+            "key": "D",
+            "text": "self-confidence"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w6-q5",
+        "week": 6,
+        "number": 5,
+        "question": "Perceiving emotions means ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Ignoring signals"
+          },
+          {
+            "key": "B",
+            "text": "Understanding only what somebody is saying to you"
+          },
+          {
+            "key": "C",
+            "text": "Understanding only somebody’s facial expression"
+          },
+          {
+            "key": "D",
+            "text": "Understanding both verbal and nonverbal signals"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w6-q6",
+        "week": 6,
+        "number": 6,
+        "question": "___ suggests that 10 distinct components provide the scaffolding of emotionally and socially intelligent behaviors:",
+        "options": [
+          {
+            "key": "A",
+            "text": "Bar-On"
+          },
+          {
+            "key": "B",
+            "text": "Goleman"
+          },
+          {
+            "key": "C",
+            "text": "Salovey"
+          },
+          {
+            "key": "D",
+            "text": "Mayer"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w6-q7",
+        "week": 6,
+        "number": 7,
+        "question": "Which of the following is a facilitator of EQ?",
+        "options": [
+          {
+            "key": "A",
+            "text": "optimism"
+          },
+          {
+            "key": "B",
+            "text": "happiness"
+          },
+          {
+            "key": "C",
+            "text": "independence"
+          },
+          {
+            "key": "D",
+            "text": "all of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": "",
+        "sourceNote": "The PDF answer line says “a = all of the given”, but that text matches option D. The site keys the answer to option D."
+      },
+      {
+        "id": "w6-q8",
+        "week": 6,
+        "number": 8,
+        "question": "___ is a strategy for improving one’s self-awareness.",
+        "options": [
+          {
+            "key": "A",
+            "text": "rejecting feedback"
+          },
+          {
+            "key": "B",
+            "text": "using critical self-talk daily"
+          },
+          {
+            "key": "C",
+            "text": "developing a fixed mindset"
+          },
+          {
+            "key": "D",
+            "text": "pursuing one’s passion"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w6-q9",
+        "week": 6,
+        "number": 9,
+        "question": "Having students create autobiographies is an example of creating opportunities for ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "emotional labor"
+          },
+          {
+            "key": "B",
+            "text": "emotional contagion"
+          },
+          {
+            "key": "C",
+            "text": "metacognition"
+          },
+          {
+            "key": "D",
+            "text": "none of the given"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w6-q10",
+        "week": 6,
+        "number": 10,
+        "question": "Which of the following is not true about management of emotions?",
+        "options": [
+          {
+            "key": "A",
+            "text": "It is essentially a private act"
+          },
+          {
+            "key": "B",
+            "text": "It is directly regulated by others"
+          },
+          {
+            "key": "C",
+            "text": "It is influenced by cultural norms"
+          },
+          {
+            "key": "D",
+            "text": "It is influenced by what society defines as appropriate to feel and express"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "title": "Week 7",
+    "sourceLabel": "July 2025- Week 7 Assignment",
+    "questions": [
+      {
+        "id": "w7-q1",
+        "week": 7,
+        "number": 1,
+        "question": "Which of the following is false about learning according to Gagne’s definition?",
+        "options": [
+          {
+            "key": "A",
+            "text": "It is a change in human disposition"
+          },
+          {
+            "key": "B",
+            "text": "It persists over a period of time"
+          },
+          {
+            "key": "C",
+            "text": "It is simply ascribable to processes of growth"
+          },
+          {
+            "key": "D",
+            "text": "None of the above"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w7-q2",
+        "week": 7,
+        "number": 2,
+        "question": "Manual or physical skills come under ___ component of Bloom’s taxonomy.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Cognitive"
+          },
+          {
+            "key": "B",
+            "text": "Affective"
+          },
+          {
+            "key": "C",
+            "text": "Psychomotor"
+          },
+          {
+            "key": "D",
+            "text": "Physical"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w7-q3",
+        "week": 7,
+        "number": 3,
+        "question": "Reflection, learning and education was explored by ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Carl Rogers"
+          },
+          {
+            "key": "B",
+            "text": "John Watson"
+          },
+          {
+            "key": "C",
+            "text": "Benjamin Bloom"
+          },
+          {
+            "key": "D",
+            "text": "John Dewey"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w7-q4",
+        "week": 7,
+        "number": 4,
+        "question": "The principles of ___ refer to how close in time two events must be for a bond to be formed.",
+        "options": [
+          {
+            "key": "A",
+            "text": "behavior"
+          },
+          {
+            "key": "B",
+            "text": "reinforcement"
+          },
+          {
+            "key": "C",
+            "text": "repetition"
+          },
+          {
+            "key": "D",
+            "text": "contiguity"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w7-q5",
+        "week": 7,
+        "number": 5,
+        "question": "___ gives information to learners about their success or failure concerning the task at hand.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Cognitive feedback"
+          },
+          {
+            "key": "B",
+            "text": "Emotional feedback"
+          },
+          {
+            "key": "C",
+            "text": "Reinforcement"
+          },
+          {
+            "key": "D",
+            "text": "Physical feedback"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w7-q6",
+        "week": 7,
+        "number": 6,
+        "question": "The ___ orientation to learning has a quality of personal involvement—the whole person in both feeling and cognitive aspects being in the learning event.",
+        "options": [
+          {
+            "key": "A",
+            "text": "behavioral"
+          },
+          {
+            "key": "B",
+            "text": "cognitive"
+          },
+          {
+            "key": "C",
+            "text": "humanistic"
+          },
+          {
+            "key": "D",
+            "text": "social"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w7-q7",
+        "week": 7,
+        "number": 7,
+        "question": "Learning through play is ___ learning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "primary"
+          },
+          {
+            "key": "B",
+            "text": "secondary"
+          },
+          {
+            "key": "C",
+            "text": "passive"
+          },
+          {
+            "key": "D",
+            "text": "active"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w7-q8",
+        "week": 7,
+        "number": 8,
+        "question": "People with ___ learning style are prone to sorting their ideas after speaking, rather than thinking ideas through before.",
+        "options": [
+          {
+            "key": "A",
+            "text": "logical"
+          },
+          {
+            "key": "B",
+            "text": "solitary"
+          },
+          {
+            "key": "C",
+            "text": "visual"
+          },
+          {
+            "key": "D",
+            "text": "auditory"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w7-q9",
+        "week": 7,
+        "number": 9,
+        "question": "Which of the following statements is false?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Effective instruction is static"
+          },
+          {
+            "key": "B",
+            "text": "Effective instruction is eclectic"
+          },
+          {
+            "key": "C",
+            "text": "Effective instruction is generative"
+          },
+          {
+            "key": "D",
+            "text": "Effective instruction is interactive"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w7-q10",
+        "week": 7,
+        "number": 10,
+        "question": "In ADDIE model, I stand for ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "instruction"
+          },
+          {
+            "key": "B",
+            "text": "implementation"
+          },
+          {
+            "key": "C",
+            "text": "integration"
+          },
+          {
+            "key": "D",
+            "text": "induction"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "title": "Week 8",
+    "sourceLabel": "July 2026- Assignment Week-8",
+    "questions": [
+      {
+        "id": "w8-q1",
+        "week": 8,
+        "number": 1,
+        "question": "The word ‘pedagogy’ has been derived from the ___ word “pedagogue”.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Latin"
+          },
+          {
+            "key": "B",
+            "text": "Sanskrit"
+          },
+          {
+            "key": "C",
+            "text": "Greek"
+          },
+          {
+            "key": "D",
+            "text": "English"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w8-q2",
+        "week": 8,
+        "number": 2,
+        "question": "Which of the following statements is not true about pedagogy?",
+        "options": [
+          {
+            "key": "A",
+            "text": "It is a method or way of teaching"
+          },
+          {
+            "key": "B",
+            "text": "It is derived from the Greek word “pedagogue”"
+          },
+          {
+            "key": "C",
+            "text": "It helps a teacher understand how learning should be facilitated."
+          },
+          {
+            "key": "D",
+            "text": "It harms the quality of teaching and learning."
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w8-q3",
+        "week": 8,
+        "number": 3,
+        "question": "Pedagogy can enhance the student-teacher relationship.",
+        "options": [
+          {
+            "key": "A",
+            "text": "True"
+          },
+          {
+            "key": "B",
+            "text": "False"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w8-q4",
+        "week": 8,
+        "number": 4,
+        "question": "___ learning is based on the model that knowledge can be created within a population where members actively interact by sharing experiences and take on asymmetry roles.",
+        "options": [
+          {
+            "key": "A",
+            "text": "integrative"
+          },
+          {
+            "key": "B",
+            "text": "inquiry-based"
+          },
+          {
+            "key": "C",
+            "text": "collaborative"
+          },
+          {
+            "key": "D",
+            "text": "constructivist"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w8-q5",
+        "week": 8,
+        "number": 5,
+        "question": "The Pedagogical Model provides an overview of the learning cycle and breaks it down into ___ domains or phases of instruction.",
+        "options": [
+          {
+            "key": "A",
+            "text": "five"
+          },
+          {
+            "key": "B",
+            "text": "three"
+          },
+          {
+            "key": "C",
+            "text": "two"
+          },
+          {
+            "key": "D",
+            "text": "seven"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w8-q6",
+        "week": 8,
+        "number": 6,
+        "question": "Which of the following is not a type of inquiry-based approach?",
+        "options": [
+          {
+            "key": "A",
+            "text": "confrontation"
+          },
+          {
+            "key": "B",
+            "text": "structure"
+          },
+          {
+            "key": "C",
+            "text": "guided"
+          },
+          {
+            "key": "D",
+            "text": "open"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w8-q7",
+        "week": 8,
+        "number": 7,
+        "question": "In experiential learning, students are engaged ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "intellectually"
+          },
+          {
+            "key": "B",
+            "text": "soulfully"
+          },
+          {
+            "key": "C",
+            "text": "socially"
+          },
+          {
+            "key": "D",
+            "text": "all of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w8-q8",
+        "week": 8,
+        "number": 8,
+        "question": "___ stage of experiential theory by Kolb focuses on planning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "concrete experience"
+          },
+          {
+            "key": "B",
+            "text": "abstract conceptualization"
+          },
+          {
+            "key": "C",
+            "text": "reflective observation"
+          },
+          {
+            "key": "D",
+            "text": "active experimentation"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w8-q9",
+        "week": 8,
+        "number": 9,
+        "question": "People with a ___ learning style can often act on “gut feeling” and will rely on others' analysis rather than their own.",
+        "options": [
+          {
+            "key": "A",
+            "text": "accommodating"
+          },
+          {
+            "key": "B",
+            "text": "converging"
+          },
+          {
+            "key": "C",
+            "text": "diverging"
+          },
+          {
+            "key": "D",
+            "text": "assimilating"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w8-q10",
+        "week": 8,
+        "number": 10,
+        "question": "According to the ___ principle, students learn better from animation and narration than from animation and on-screen text.",
+        "options": [
+          {
+            "key": "A",
+            "text": "multimedia"
+          },
+          {
+            "key": "B",
+            "text": "modality"
+          },
+          {
+            "key": "C",
+            "text": "coherence"
+          },
+          {
+            "key": "D",
+            "text": "temporal contiguity"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "title": "Week 9",
+    "sourceLabel": "July 2026- Assignment Week-9",
+    "questions": [
+      {
+        "id": "w9-q1",
+        "week": 9,
+        "number": 1,
+        "question": "E-learning is any form of ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "teaching"
+          },
+          {
+            "key": "B",
+            "text": "training"
+          },
+          {
+            "key": "C",
+            "text": "tutoring"
+          },
+          {
+            "key": "D",
+            "text": "all of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w9-q2",
+        "week": 9,
+        "number": 2,
+        "question": "___ is a feature of e-learning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "difficulty in access"
+          },
+          {
+            "key": "B",
+            "text": "user friendliness"
+          },
+          {
+            "key": "C",
+            "text": "social injustice"
+          },
+          {
+            "key": "D",
+            "text": "closed learning"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w9-q3",
+        "week": 9,
+        "number": 3,
+        "question": "E-learning is a synonym of audio-visual learning, multimedia learning, and distance learning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "True"
+          },
+          {
+            "key": "B",
+            "text": "False"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w9-q4",
+        "week": 9,
+        "number": 4,
+        "question": "Which of the following is not a type of e-learning?",
+        "options": [
+          {
+            "key": "A",
+            "text": "text-driven"
+          },
+          {
+            "key": "B",
+            "text": "interactive"
+          },
+          {
+            "key": "C",
+            "text": "simulation"
+          },
+          {
+            "key": "D",
+            "text": "physical"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w9-q5",
+        "week": 9,
+        "number": 5,
+        "question": "Which of the following is not a benefit of e-learning?",
+        "options": [
+          {
+            "key": "A",
+            "text": "It can accommodate the need of a housewife"
+          },
+          {
+            "key": "B",
+            "text": "People can revise the learning content as many times as they want"
+          },
+          {
+            "key": "C",
+            "text": "It facilitates in developing and communicating new training policies"
+          },
+          {
+            "key": "D",
+            "text": "None of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w9-q6",
+        "week": 9,
+        "number": 6,
+        "question": "Good learners know ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "What they are learning"
+          },
+          {
+            "key": "B",
+            "text": "Why they are learning"
+          },
+          {
+            "key": "C",
+            "text": "How they are learning"
+          },
+          {
+            "key": "D",
+            "text": "All of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w9-q7",
+        "week": 9,
+        "number": 7,
+        "question": "Learners may multitask when engaging in an online course, which could be resulting in ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "hyperfocus"
+          },
+          {
+            "key": "B",
+            "text": "better retrieval"
+          },
+          {
+            "key": "C",
+            "text": "shorter attention spans"
+          },
+          {
+            "key": "D",
+            "text": "None of the given"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w9-q8",
+        "week": 9,
+        "number": 8,
+        "question": "___ learning is the crucial determinant of successful e-learning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "passive"
+          },
+          {
+            "key": "B",
+            "text": "retrospective"
+          },
+          {
+            "key": "C",
+            "text": "social"
+          },
+          {
+            "key": "D",
+            "text": "active"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w9-q9",
+        "week": 9,
+        "number": 9,
+        "question": "The brain can process 36,000 visual cues per___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "hour"
+          },
+          {
+            "key": "B",
+            "text": "second"
+          },
+          {
+            "key": "C",
+            "text": "day"
+          },
+          {
+            "key": "D",
+            "text": "year"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w9-q10",
+        "week": 9,
+        "number": 10,
+        "question": "For effective learning, online courses should ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "use headings"
+          },
+          {
+            "key": "B",
+            "text": "use complex language"
+          },
+          {
+            "key": "C",
+            "text": "present long pieces of text"
+          },
+          {
+            "key": "D",
+            "text": "use random images"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "title": "Week 10",
+    "sourceLabel": "July 2026- Assignment Week-10",
+    "questions": [
+      {
+        "id": "w10-q1",
+        "week": 10,
+        "number": 1,
+        "question": "During Covid-19 the world was busy in preparing 1.5 billion learners for the new normal, i.e., ___ learning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "ineffective"
+          },
+          {
+            "key": "B",
+            "text": "physical"
+          },
+          {
+            "key": "C",
+            "text": "remote"
+          },
+          {
+            "key": "D",
+            "text": "experiential"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w10-q2",
+        "week": 10,
+        "number": 2,
+        "question": "To develop learner readiness for online learning, training sessions on ___ are helpful.",
+        "options": [
+          {
+            "key": "A",
+            "text": "netiquettes"
+          },
+          {
+            "key": "B",
+            "text": "time management"
+          },
+          {
+            "key": "C",
+            "text": "developing study skills"
+          },
+          {
+            "key": "D",
+            "text": "all of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w10-q3",
+        "week": 10,
+        "number": 3,
+        "question": "The typical picture of a teacher being a dispenser of knowledge to the students has been replaced by that of a ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "obstructor"
+          },
+          {
+            "key": "B",
+            "text": "parent"
+          },
+          {
+            "key": "C",
+            "text": "friend"
+          },
+          {
+            "key": "D",
+            "text": "facilitator"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w10-q4",
+        "week": 10,
+        "number": 4,
+        "question": "In 2018, Global Education and Skills Forum noted that the ‘future’ teacher would need the 5 skills to thrive in the 21st century. Which of the following is not one of them?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Strong social skills"
+          },
+          {
+            "key": "B",
+            "text": "Data analysis"
+          },
+          {
+            "key": "C",
+            "text": "External focus"
+          },
+          {
+            "key": "D",
+            "text": "Strictness"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w10-q5",
+        "week": 10,
+        "number": 5,
+        "question": "Participatory education demands ___ so as to build a needs-based approach to teaching.",
+        "options": [
+          {
+            "key": "A",
+            "text": "creativity"
+          },
+          {
+            "key": "B",
+            "text": "stubbornness"
+          },
+          {
+            "key": "C",
+            "text": "reward"
+          },
+          {
+            "key": "D",
+            "text": "none of the given"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w10-q6",
+        "week": 10,
+        "number": 6,
+        "question": "Students who consider intelligence as a malleable entity tend to focus on their obstacles instead of goals.",
+        "options": [
+          {
+            "key": "A",
+            "text": "True"
+          },
+          {
+            "key": "B",
+            "text": "False"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w10-q7",
+        "week": 10,
+        "number": 7,
+        "question": "Which of the following is not a principle to enhance student learning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "What students already know affects their learning"
+          },
+          {
+            "key": "B",
+            "text": "Learning is context-based"
+          },
+          {
+            "key": "C",
+            "text": "Students’ cognitive development and learning is limited by the general stages of"
+          },
+          {
+            "key": "D",
+            "text": "The acquisition of knowledge and skills in the long term depends largely on practice."
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w10-q8",
+        "week": 10,
+        "number": 8,
+        "question": "___ feedback to students is important for learning.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Unclear"
+          },
+          {
+            "key": "B",
+            "text": "Late"
+          },
+          {
+            "key": "C",
+            "text": "Harsh"
+          },
+          {
+            "key": "D",
+            "text": "Explanatory"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w10-q9",
+        "week": 10,
+        "number": 9,
+        "question": "Mastery goals are those that are geared towards the acquisition or improvement of___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Skills"
+          },
+          {
+            "key": "B",
+            "text": "Number of students in a classroom"
+          },
+          {
+            "key": "C",
+            "text": "Teacher feedback"
+          },
+          {
+            "key": "D",
+            "text": "None of the given"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w10-q10",
+        "week": 10,
+        "number": 10,
+        "question": "The vast majority of formative assessment is___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "Formal"
+          },
+          {
+            "key": "B",
+            "text": "Incorrect"
+          },
+          {
+            "key": "C",
+            "text": "Written"
+          },
+          {
+            "key": "D",
+            "text": "informal"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "title": "Week 11",
+    "sourceLabel": "July 2026- Assignment Week-11",
+    "questions": [
+      {
+        "id": "w11-q1",
+        "week": 11,
+        "number": 1,
+        "question": "Social cognition has a protracted development through infancy to ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "teenage"
+          },
+          {
+            "key": "B",
+            "text": "old-age"
+          },
+          {
+            "key": "C",
+            "text": "adulthood"
+          },
+          {
+            "key": "D",
+            "text": "death"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w11-q2",
+        "week": 11,
+        "number": 2,
+        "question": "Which of the following abilities comes under social cognition?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Face processing"
+          },
+          {
+            "key": "B",
+            "text": "Joint attention"
+          },
+          {
+            "key": "C",
+            "text": "Theory of mind"
+          },
+          {
+            "key": "D",
+            "text": "All of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w11-q3",
+        "week": 11,
+        "number": 3,
+        "question": "Under social cognition, abilities involved in affective processing are often called ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "hot"
+          },
+          {
+            "key": "B",
+            "text": "cold"
+          },
+          {
+            "key": "C",
+            "text": "white"
+          },
+          {
+            "key": "D",
+            "text": "black"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w11-q4",
+        "week": 11,
+        "number": 4,
+        "question": "Social schemas refer to people's mental representations of social ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "values"
+          },
+          {
+            "key": "B",
+            "text": "memories"
+          },
+          {
+            "key": "C",
+            "text": "skills"
+          },
+          {
+            "key": "D",
+            "text": "patterns"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w11-q5",
+        "week": 11,
+        "number": 5,
+        "question": "During the earliest stages of development, children are very ___-centric. They see the world from their own perspective and struggle to think about how other people may view the world.",
+        "options": [
+          {
+            "key": "A",
+            "text": "selfish"
+          },
+          {
+            "key": "B",
+            "text": "ego"
+          },
+          {
+            "key": "C",
+            "text": "conscious"
+          },
+          {
+            "key": "D",
+            "text": "emotional"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w11-q6",
+        "week": 11,
+        "number": 6,
+        "question": "A theory of mind refers to a person's ability to understand and think about the ___ of other people.",
+        "options": [
+          {
+            "key": "A",
+            "text": "behaviors"
+          },
+          {
+            "key": "B",
+            "text": "family backgrounds"
+          },
+          {
+            "key": "C",
+            "text": "mental states"
+          },
+          {
+            "key": "D",
+            "text": "language"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w11-q7",
+        "week": 11,
+        "number": 7,
+        "question": "The same social behavior in one cultural setting might have a very different meaning and interpretation if it were to occur or be observed in another culture.",
+        "options": [
+          {
+            "key": "A",
+            "text": "True"
+          },
+          {
+            "key": "B",
+            "text": "False"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w11-q8",
+        "week": 11,
+        "number": 8,
+        "question": "Social cognitive theory by Bandura focuses on concepts of ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "self-efficacy"
+          },
+          {
+            "key": "B",
+            "text": "modeling"
+          },
+          {
+            "key": "C",
+            "text": "observational learning"
+          },
+          {
+            "key": "D",
+            "text": "all of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w11-q9",
+        "week": 11,
+        "number": 9,
+        "question": "The central tenet of Bandura’s social-cognitive theory is that people seek to develop a sense of ___ over the important events in their lives.",
+        "options": [
+          {
+            "key": "A",
+            "text": "agency"
+          },
+          {
+            "key": "B",
+            "text": "dependency"
+          },
+          {
+            "key": "C",
+            "text": "attachment"
+          },
+          {
+            "key": "D",
+            "text": "emotion"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w11-q10",
+        "week": 11,
+        "number": 10,
+        "question": "___ hypothesis suggests that social processes influence how information is selected, organized, integrated, and retrieved.",
+        "options": [
+          {
+            "key": "A",
+            "text": "activation"
+          },
+          {
+            "key": "B",
+            "text": "cognitive influence"
+          },
+          {
+            "key": "C",
+            "text": "interaction"
+          },
+          {
+            "key": "D",
+            "text": "social cue strength"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "title": "Week 12",
+    "sourceLabel": "July 2026- Assignment Week-12",
+    "questions": [
+      {
+        "id": "w12-q1",
+        "week": 12,
+        "number": 1,
+        "question": "Sustainability in economic sustainability is ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "multidimensional"
+          },
+          {
+            "key": "B",
+            "text": "bidimensional"
+          },
+          {
+            "key": "C",
+            "text": "unidimensional"
+          },
+          {
+            "key": "D",
+            "text": "none of the given"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w12-q2",
+        "week": 12,
+        "number": 2,
+        "question": "The term \"sustainable development\" was first mentioned in a book related to the 1972 UN Stockholm conference on ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "water"
+          },
+          {
+            "key": "B",
+            "text": "poverty"
+          },
+          {
+            "key": "C",
+            "text": "economic crisis"
+          },
+          {
+            "key": "D",
+            "text": "human environment"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w12-q3",
+        "week": 12,
+        "number": 3,
+        "question": "Environmental sustainability focuses on impacts of processes, products and services on ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "water"
+          },
+          {
+            "key": "B",
+            "text": "biodiversity"
+          },
+          {
+            "key": "C",
+            "text": "human health"
+          },
+          {
+            "key": "D",
+            "text": "all of the given"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w12-q4",
+        "week": 12,
+        "number": 4,
+        "question": "Which of the following does not come under social sustainability?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Labour practices"
+          },
+          {
+            "key": "B",
+            "text": "Revenue generation"
+          },
+          {
+            "key": "C",
+            "text": "Human rights"
+          },
+          {
+            "key": "D",
+            "text": "Business ethics"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      },
+      {
+        "id": "w12-q5",
+        "week": 12,
+        "number": 5,
+        "question": "SDG __ focuses on clean water and sanitation.",
+        "options": [
+          {
+            "key": "A",
+            "text": "1"
+          },
+          {
+            "key": "B",
+            "text": "17"
+          },
+          {
+            "key": "C",
+            "text": "6"
+          },
+          {
+            "key": "D",
+            "text": "3"
+          }
+        ],
+        "answer": "C",
+        "explanation": ""
+      },
+      {
+        "id": "w12-q6",
+        "week": 12,
+        "number": 6,
+        "question": "SDG 16 focuses on ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "No poverty"
+          },
+          {
+            "key": "B",
+            "text": "No hunger"
+          },
+          {
+            "key": "C",
+            "text": "Good health"
+          },
+          {
+            "key": "D",
+            "text": "Peace and justice"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w12-q7",
+        "week": 12,
+        "number": 7,
+        "question": "On 20 October 2020, the Higher Education Sustainability Initiative (HESI) raised the flag of higher education as a driver for sustainable development and inclusive societies on the first day of the ___ 2020.",
+        "options": [
+          {
+            "key": "A",
+            "text": "National Sustainability Meeting"
+          },
+          {
+            "key": "B",
+            "text": "National Teachers Meeting"
+          },
+          {
+            "key": "C",
+            "text": "Global Childrens’ Meeting"
+          },
+          {
+            "key": "D",
+            "text": "Global Education Meeting"
+          }
+        ],
+        "answer": "D",
+        "explanation": ""
+      },
+      {
+        "id": "w12-q8",
+        "week": 12,
+        "number": 8,
+        "question": "Education is related to all SDGs.",
+        "options": [
+          {
+            "key": "A",
+            "text": "True"
+          },
+          {
+            "key": "B",
+            "text": "False"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w12-q9",
+        "week": 12,
+        "number": 9,
+        "question": "Successful implementation of ESD requires a shift in focus from ___.",
+        "options": [
+          {
+            "key": "A",
+            "text": "teaching to learning"
+          },
+          {
+            "key": "B",
+            "text": "learning to teaching"
+          },
+          {
+            "key": "C",
+            "text": "reading to speaking"
+          },
+          {
+            "key": "D",
+            "text": "knowing to ignoring"
+          }
+        ],
+        "answer": "A",
+        "explanation": ""
+      },
+      {
+        "id": "w12-q10",
+        "week": 12,
+        "number": 10,
+        "question": "___ competency is the ability to reflect on one’s own role in the local community and (global) society.",
+        "options": [
+          {
+            "key": "A",
+            "text": "collaboration"
+          },
+          {
+            "key": "B",
+            "text": "self-awareness"
+          },
+          {
+            "key": "C",
+            "text": "strategic"
+          },
+          {
+            "key": "D",
+            "text": "normative"
+          }
+        ],
+        "answer": "B",
+        "explanation": ""
+      }
+    ]
+  }
+]
