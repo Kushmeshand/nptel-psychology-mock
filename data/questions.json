@@ -1,0 +1,31 @@
+[
+  {
+    "week": 0,
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is Psychology?",
+        "options": [
+          "Just a social media trend",
+          "An art of living",
+          "A subject about human body",
+          "A study of cognitive processes & behavior"
+        ],
+        "answer": 3,
+        "type": "MCQ"
+      },
+      {
+        "id": 2,
+        "question": "A broad field of study that explores questions about thoughts, feelings and actions is called what?",
+        "options": [
+          "Society",
+          "Globalization",
+          "Psychology",
+          "Social Science"
+        ],
+        "answer": 2,
+        "type": "MCQ"
+      }
+    ]
+  }
+]
