@@ -1,3 +1,67 @@
+"use client";
+
+import { useEffect, useMemo, useState } from 'react';
+import { ArrowLeft, ArrowRight, BookOpen, Check, ChevronDown, CircleHelp, Clock3, Flag, GraduationCap, RotateCcw, Send, Sparkles, X } from 'lucide-react';
+import weekData from '../data/questions.json';
+
+const allQuestions = weekData.flatMap((w) => w.questions);
+const shuffle = (items) => [...items].sort(() => Math.random() - 0.5);
+const fmt = (seconds) => `${String(Math.floor(seconds / 60)).padStart(2, '0')}:${String(seconds % 60).padStart(2, '0')}`;
+
+export default function Home() {
+  const [view, setView] = useState('home');
+  const [selectedWeek, setSelectedWeek] = useState(0);
+  const [testMode, setTestMode] = useState('week');
+  const [questions, setQuestions] = useState([]);
+  const [answers, setAnswers] = useState({});
+  const [marked, setMarked] = useState({});
+  const [index, setIndex] = useState(0);
+  const [seconds, setSeconds] = useState(20 * 60);
+  const [duration, setDuration] = useState(20);
+  const [submitted, setSubmitted] = useState(false);
+  const [confirmSubmit, setConfirmSubmit] = useState(false);
+  const [showAnswers, setShowAnswers] = useState(false);
+  const [history, setHistory] = useState([]);
+
+  useEffect(() => {
+    try { setHistory(JSON.parse(localStorage.getItem('nptel-mock-history') || '[]')); } catch {}
+  }, []);
+
+  useEffect(() => {
+    if (view !== 'test' || submitted) return;
+    if (seconds <= 0) { finishTest(); return; }
+    const timer = setInterval(() => setSeconds((s) => s - 1), 1000);
+    return () => clearInterval(timer);
+  }, [view, submitted, seconds]);
+
+  const current = questions[index];
+  const answeredCount = Object.keys(answers).filter((id) => answers[id] !== undefined).length;
+  const score = questions.reduce((sum, q) => sum + (answers[q.id] === q.answer ? 1 : 0), 0);
+  const percent = questions.length ? Math.round((score / questions.length) * 100) : 0;
+  const grouped = useMemo(() => weekData, []);
+
+  function startTest(mode, week = selectedWeek, shuffleQuestions = false) {
+    let qs = mode === 'full' ? allQuestions : (weekData.find((w) => w.week === week)?.questions || []);
+    if (shuffleQuestions) qs = shuffle(qs);
+    setQuestions(qs.map((q) => ({ ...q, options: q.options })));
+    setAnswers({}); setMarked({}); setIndex(0); setSubmitted(false); setConfirmSubmit(false); setShowAnswers(false);
+    setTestMode(mode); setSelectedWeek(week);
+    const mins = mode === 'full' ? 130 : 20;
+    setDuration(mins); setSeconds(mins * 60); setView('test');
+  }
+
+  function finishTest() {
+    setSubmitted(true); setConfirmSubmit(false);
+    const record = { date: new Date().toLocaleString(), mode: testMode, week: selectedWeek, score, total: questions.length, percent };
+    setHistory((prev) => {
+      const next = [record, ...prev].slice(0, 8);
+      try { localStorage.setItem('nptel-mock-history', JSON.stringify(next)); } catch {}
+      return next;
+    });
+  }
+
+  function chooseAnswer(key) { if (!submitted) setAnswers((prev) => ({ ...prev, [current.id]: key })); }
+  function toggleMark() { setMarked((prev) => ({ ...prev, [current.id]: !prev[current.id] })); }
   function goTo(i) { setIndex(Math.max(0, Math.min(questions.length - 1, i))); }
 
   if (view === 'test' && current) {
