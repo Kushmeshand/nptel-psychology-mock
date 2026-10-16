@@ -20,7 +20,7 @@ A Next.js practice site built from `Psychology_2026_merged.pdf` (provided by the
 1. Upload this project to a new GitHub repository.
 2. In Vercel, choose **Add New → Project**, import the repository, and keep the default Next.js settings.
 3. Click **Deploy**. No environment variables are required.
-
+Deployment update
 ## Notes about the source PDF
 
 - The PDF contains Week 0–12. Its Week 7 heading says “July 2025” while the surrounding assignments are labelled July 2026; the app labels it Week 7 for consistency.
